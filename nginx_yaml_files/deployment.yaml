@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: nginiiiix
+          image: nginx
